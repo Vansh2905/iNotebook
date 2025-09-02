@@ -12,6 +12,7 @@ It includes **authentication & authorization** so that each user's notes remain 
 - 🖥️ Responsive UI with React + TailwindCSS
 - 🌐 Protected routes for logged-in users
 - ⚡ REST API with Express.js backend
+- ✨ AI Summary features helps to understand your notes faster
 
 ---
 
