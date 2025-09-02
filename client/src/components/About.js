@@ -27,7 +27,7 @@ export default function About() {
           <li>Organize notes with tags for easy access</li>
           <li>Secure authentication with JWT</li>
           <li>Responsive design – works on mobile & desktop</li>
-          <li>AI Summary helps your understand your notes fast</li>
+          <li>AI Summary helps you understand your notes fast</li>
         </ul>
 
         {/* Mission Section */}
