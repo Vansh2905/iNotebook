@@ -10,6 +10,7 @@ app.use(cors());
 app.use(express.json())
 app.use('/api/auth',require('./routes/auth'));
 app.use('/api/notes',require('./routes/notes'));
+app.use("/api/ai", require("./routes/ai"));
 app.listen(port, () => {
   console.log(`iNotebook is listening on port http://localhost:${port}`)
 }) 
